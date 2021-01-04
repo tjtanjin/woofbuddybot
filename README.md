@@ -15,7 +15,7 @@
 Woof buddy bot is a simple telegram bot that takes in an image of a dog as input and identifies its breed for output to the user. Note that this repository contains work pertaining only to the telegram bot for users to interact with. Work for the first iteration of the trained model was completed back in 2019 but was never uploaded nor made public. Further improvements/refinements are being carried out on the model this start of 2021 and the code for those will be available in a separate repository below:
 ```
 https://github.com/tjtanjin/project_woof_model
-```t
+```
 Currently, a live version based on the old model is already available at the bot below:
 ```
 https://t.me/woofbuddybot
