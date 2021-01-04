@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://i.imgur.com/UkEq2V4.jpg" />
   <h1 align="center">Woof Buddy</h1>
 </p>
 
@@ -78,4 +79,4 @@ $ python3 main.py
 If you have code to contribute to the project, open a pull request and describe clearly the changes and what they are intended to do (enhancement, bug fixes etc). Alternatively, you may simply raise bugs or suggestions by opening an issue.
 
 ### Others
-For any questions regarding the implementation of the project, please drop me an email to: cjtanjin@gmail.com.
+For any questions regarding the implementation of the project, please drop an email to: cjtanjin@gmail.com.
