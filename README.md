@@ -29,7 +29,7 @@ https://project-woof.herokuapp.com
 It currently only supports images/telegram stickers as input and owing to a limited dataset, the accuracy sees significant areas for improvements. In lieu of that, a future release of this bot would see an option for users to verify the results returned by the model and should a dog be wrongly classified, prompt the user to advice on the correct breed of the dog. With the permission of the user, this image would be added to our dataset which would mean eventual potential growth!
 
 ### Technologies
-Technologies used by Woof buddy bot is as below:
+Technologies used by Woof buddy bot are as below:
 ##### Done with:
 
 <p align="center">
@@ -70,8 +70,8 @@ $ python3 main.py
 ```
 
 ### Team
-* [Tan Jin](#https://github.com/tjtanjin)
-* [Tan Ying Qi](#https://github.com/yingqi98)
+* [Tan Jin](https://github.com/tjtanjin)
+* [Tan Ying Qi](https://github.com/yingqi98)
 
 ### Contributing
 If you have code to contribute to the project, open a pull request and describe clearly the changes and what they are intended to do (enhancement, bug fixes etc). Alternatively, you may simply raise bugs or suggestions by opening an issue.
