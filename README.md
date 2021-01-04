@@ -64,6 +64,7 @@ $ git clone https://github.com/tjtanjin/woofbuddybot.git
 ```
 {"token": "your bot token here"}
 ```
+Next, owing to the file size limit on github, you will have to create a models folder at the base of the project then manually download the [model](https://drive.google.com/file/d/1c37hpQVtazDhF73EgiuI89jD34XJvPmm/view?usp=sharing) and place it within this new folder.
 * Finally, from the base directory of the project, execute the following command and the terminal should print "running..." if everything has been setup correctly!
 ```
 $ python3 main.py
