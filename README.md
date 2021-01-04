@@ -55,13 +55,13 @@ https://github.com/tjtanjin/woofbuddybot
 
 ### Setup
 The following section will guide you through setting up your own woof buddy bot (telegram account required).
-* First, head over to [BotFather](#https://t.me/BotFather) and create your own telegram bot with the /newbot command. After choosing an appropriate name and telegram handle for your bot, note down the bot token provided to you.
+* First, head over to [BotFather](https://t.me/BotFather) and create your own telegram bot with the /newbot command. After choosing an appropriate name and telegram handle for your bot, note down the bot token provided to you.
 * Next, cd to the directory of where you wish to store the project and clone this repository. An example is provided below:
 ```
 $ cd home/user/exampleuser/projects/
 $ git clone https://github.com/tjtanjin/woofbuddybot.git
 ```
-* Following which, create a token.json file under the config folder and save the token you received from [BotFather](#https://t.me/BotFather) as a value to the key "token" as shown below:
+* Following which, create a token.json file under the config folder and save the token you received from [BotFather](https://t.me/BotFather) as a value to the key "token" as shown below:
 ```
 {"token": "your bot token here"}
 ```
